@@ -69,5 +69,5 @@
     - 제출 위치 : [smarcle2024@gmail.com](mailto:smarcle2024@gmail.com)
 
 ## 기타 참고 사항
-- Do it! 강화학습 입문, 이즈스퍼블리싱
+- Do it! 강화학습 입문, 이즈스퍼블리싱 (https://github.com/yunho0130/start-RL)
 - 기타 연락처 : [smarcle2024@gmail.com](mailto:smarcle2024@gmail.com)
